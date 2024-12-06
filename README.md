@@ -13,10 +13,13 @@ Nacher:
 <img width="1552" alt="Bildschirmfoto 2024-12-06 um 19 02 55" src="https://github.com/user-attachments/assets/5732e965-db41-4127-aff7-e7b62c15b2c5">
 <img width="1552" alt="Bildschirmfoto 2024-12-06 um 19 03 22" src="https://github.com/user-attachments/assets/217fbb98-b50c-464d-96b2-96be9c0a68d1">
 <img width="1552" alt="Bildschirmfoto 2024-12-06 um 19 03 34" src="https://github.com/user-attachments/assets/732b7fd0-2569-4912-917f-94909d67a85e">
+<img width="1552" alt="Bildschirmfoto 2024-12-06 um 20 11 02" src="https://github.com/user-attachments/assets/6f0b3ddf-b78a-450a-821d-6ede7dcc2f5e">
 
 
 
 
 Administratoren User anlegen
 ![image](https://github.com/user-attachments/assets/b99e06e8-176e-4598-accc-6f07edc7f809)
+<img width="1552" alt="Bildschirmfoto 2024-12-06 um 20 10 29" src="https://github.com/user-attachments/assets/1eed5ff1-2594-4b59-a806-cfd17e0995cf">
+
 
