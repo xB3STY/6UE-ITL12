@@ -19,7 +19,8 @@ Nacher:
 
 
 Administratoren User anlegen
-![image](https://github.com/user-attachments/assets/b99e06e8-176e-4598-accc-6f07edc7f809)
-<img width="1552" alt="Bildschirmfoto 2024-12-06 um 20 10 29" src="https://github.com/user-attachments/assets/1eed5ff1-2594-4b59-a806-cfd17e0995cf">
+![image](https://github.com/user-attachments/assets/4ceb64ff-8048-4ee6-a5f3-78ba3381c37d)
+![image](https://github.com/user-attachments/assets/9a89edb8-5cda-4428-8a1b-02a6655bb3a4)
+
 
 
