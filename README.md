@@ -5,7 +5,8 @@
 Anpassung der Registrierung ohne Captcha 
 
 Vorher:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/486f8f3a-6436-4f5b-b7a2-a0b26323718a)
+
 
 
 
