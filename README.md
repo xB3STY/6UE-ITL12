@@ -4,6 +4,10 @@
 
 Anpassung der Registrierung ohne Captcha 
 
+Vorher:
+![Uploading image.png…]()
+
+
 
 
 Administratoren User anlegen
